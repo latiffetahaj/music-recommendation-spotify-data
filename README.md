@@ -17,4 +17,4 @@ information to my account.
 
 ### PDF Version 
 The entire project explanation with its results is on the PDF link:
-[Project - PDF](https://drive.google.com/drive/u/0/folders/15L95dcM0ZUzq0LazJjAVFiPSV3XkmauX)
+[Project - PDF](https://drive.google.com/file/d/1Dn5WVIu4--9bhgPizL9I78g40DuXA6W4/view?usp=sharing)
